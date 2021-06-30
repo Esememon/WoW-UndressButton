@@ -1,6 +1,6 @@
-## Interface: 80250
+## Interface: 90100
 ## Author: albin
 ## Title: Undress Button
 ## Notes: Easily remove gear from dressing room model
-## Version: 8.2.5
+## Version: 9.1.0
 UndressButton.xml
